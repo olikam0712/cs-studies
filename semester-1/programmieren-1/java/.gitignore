@@ -1,0 +1,13 @@
+# Maven
+target/
+*.class
+*.iml
+
+# Ide and other junk
+.idea/
+.vscode/
+
+# Not ready for publication/Copyright infringeing
+ExerciseSet03.java
+Terminal.java
+AppTest.java
