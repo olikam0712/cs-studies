@@ -4,4 +4,4 @@ A collection of my projects and code from my computer science studies.
 ### Module: Programming 1
 Exercises done:
 - ExerciseSet02: Figuring out and printing mathematical sequences to the console
-- ExerciseSet03: Yet to be released
+- ExerciseSet03: Small project planner, date calculation and printing a calendar
