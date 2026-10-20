@@ -8,6 +8,4 @@ target/
 .vscode/
 
 # Not ready for publication/Copyright infringeing
-ExerciseSet03.java
 Terminal.java
-AppTest.java
